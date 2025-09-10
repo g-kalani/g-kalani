@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **g-kalani/g-kalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIyYTkxZjlhNWZkNTQ4ZDUxNmVlNjA2NjI0MTA3ZmFjNzhlOWQyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Fp03u13zE9X8QzXy/giphy.gif" width="150" height="150" style="border-radius: 50%;">
 <h1>Hello, World! 👋 I'm Garima Kalani</h1>
 </div>
 
@@ -56,8 +53,8 @@ Tools & Other
 
 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[YourUsername]&theme=radical" alt="Your GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=[g-kalani]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[g-kalani]&theme=radical" alt="Your GitHub Streak Stats" />
 </div>
 
 🌐 Let's Connect!
@@ -68,5 +65,5 @@ GitHub Stats
 
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=[YourUsername]&style=for-the-badge&color=blue" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=[g-kalani]&style=for-the-badge&color=blue" alt="Profile views">
 </div>
