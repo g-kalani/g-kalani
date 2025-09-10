@@ -27,11 +27,11 @@ About Me
 🛠️ My Skills & Technologies
 Here are some of the tools and technologies I enjoy working with:
 
-Web Development: MongoDB, Express.js, ReactJS, Node.js, HTML5, CSS3, Tailwind, Bootstrap, EJS, MySQL
+  Web Development: MongoDB, Express.js, ReactJS, Node.js, HTML5, CSS3, Tailwind, Bootstrap, EJS, MySQL
 
-Programming Languages: C++, Python, Java, JavaScript
+  Programming Languages: C++, Python, Java, JavaScript
 
-Other Tools: Motion Canvas, Streamlit, Google Gemini API
+  Other Tools: Motion Canvas, Streamlit, Google Gemini API
 
 GitHub Stats
 <div align="center">
@@ -42,7 +42,7 @@ GitHub Stats
 🔗 LinkedIn: https://www.linkedin.com/in/garima-kalani
 📧 Email: garimakalani2@gmail.com
 
-"The best way to predict the future is to create it." - Abraham Lincoln
+    "The best way to predict the future is to create it." - Abraham Lincoln
 
 <br>
 <div align="center">
