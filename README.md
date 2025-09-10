@@ -47,5 +47,5 @@ GitHub Stats
 
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=[g-kalani]&style=for-the-badge&color=blue" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=g-kalani&style=for-the-badge&color=blue" alt="Profile views">
 </div>
