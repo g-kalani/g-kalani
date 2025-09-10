@@ -35,8 +35,8 @@ Other Tools: Motion Canvas, Streamlit, Google Gemini API
 
 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[g-kalani]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[g-kalani]&theme=radical" alt="Your GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=g-kalani&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dg-kalani&theme=radical" alt="Your GitHub Streak Stats" />
 </div>
 
 🌐 Let's Connect!
