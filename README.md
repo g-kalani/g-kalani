@@ -33,10 +33,6 @@ Here are some of the tools and technologies I enjoy working with:
 
   Other Tools: Motion Canvas, Streamlit, Google Gemini API
 
-GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=g-kalani&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</div>
 
 🌐 Let's Connect!
 🔗 LinkedIn: https://www.linkedin.com/in/garima-kalani
